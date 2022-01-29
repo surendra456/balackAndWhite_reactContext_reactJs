@@ -1,0 +1,23 @@
+/* Write your CSS here */
+
+.home-container {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.background {
+  background-color: #000000;
+}
+.h-head {
+  color: #000000;
+  font-family: 'roboto';
+}
+.color-h {
+  color: #ffffff;
+}
+.img {
+  width: 20%;
+}

@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.nav-con {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+}
+.back {
+  background-color: #333333;
+}
+.route-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  list-style-type: none;
+}
+.link {
+  text-decoration: none;
+}
+.logo {
+  width: 3%;
+}
+.button {
+  outline: none;
+  background-color: transparent;
+  border-width: 0px;
+}
+.logo-l {
+  width: 20%;
+}
+.l-name {
+  margin-left: 10px;
+  color: #171f46;
+  font-family: 'roboto';
+}
+
+.color {
+  color: #ffffff;
+}
